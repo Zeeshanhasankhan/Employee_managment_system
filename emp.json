@@ -1,0 +1,23 @@
+{
+    "name": [
+        "Imran",
+        "Zeeshan",
+        "Awdhesh",
+        "Akash",
+        "Rashid"
+    ],
+    "intime": [
+        "7:00AM",
+        "8:30AM",
+        "7:00PM",
+        "11:00PM",
+        "3:00PM"
+    ],
+    "outtime": [
+        "8:30AM",
+        "5:00PM",
+        "7:00AM",
+        "7:00PM",
+        "11:00PM"
+    ]
+}
